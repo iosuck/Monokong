@@ -3,8 +3,8 @@ install on vscode
 [Monokong](https://marketplace.visualstudio.com/items?itemName=iosuck.monokong)
 
 -------------------------------
-ext install iosuck.monokong
--------------------------------
+$: ext install iosuck.monokong
+
 
 -------------------------------
 *.py
