@@ -1,0 +1,22 @@
+{
+  "name": "monokong",
+  "displayName": "Monokong",
+  "description": "Theme Base On Monokai",
+  "version": "0.0.1",
+  "publisher": "iosuck",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokong",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokong-color-theme.json"
+      }
+    ]
+  }
+}
