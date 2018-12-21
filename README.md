@@ -15,3 +15,5 @@ $: ext install iosuck.monokong
 *.js
 -------------------------------
 ![alt text](https://i.ibb.co/tZFntPF/s2.png)
+
+This theme using Material Icon
